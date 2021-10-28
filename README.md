@@ -1,3 +1,13 @@
+# Run
+
+```sh
+docker-compose up -d
+```
+
+```sh
+docker-compose down
+```
+
 # Userful Docker Comands
 
 ### Running Management commands inside a docker container
